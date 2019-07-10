@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ayladjuret</string>
+    <string name="master_switch">Kör!</string>
+    <string name="dialog_fire">Var det verkligen det här du skulle göra nu?</string>
+    <string name="fire">Ja</string>
+    <string name="cancel">Nej</string>
+</resources>
